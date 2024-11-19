@@ -1,4 +1,4 @@
-baseURL = "https://hotuns.me"
+baseURL = "https://hotuns.github.io"
 languageCode = "zh-CN"
 title = "Hotuns Blog"
 theme = "yinyang"

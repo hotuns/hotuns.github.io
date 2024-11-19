@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hotuns.me/categories/</loc>
+    <loc>https://hotuns.github.io/categories/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hotuns.me/en/categories/"
+                href="https://hotuns.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hotuns.me/categories/"
+                href="https://hotuns.github.io/categories/"
                 />
   </url><url>
-    <loc>https://hotuns.me/</loc>
+    <loc>https://hotuns.github.io/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hotuns.me/en/"
+                href="https://hotuns.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hotuns.me/"
+                href="https://hotuns.github.io/"
                 />
   </url><url>
-    <loc>https://hotuns.me/posts/</loc>
+    <loc>https://hotuns.github.io/posts/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hotuns.me/en/posts/"
+                href="https://hotuns.github.io/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hotuns.me/posts/"
+                href="https://hotuns.github.io/posts/"
                 />
   </url><url>
-    <loc>https://hotuns.me/categories/%E8%AF%97%E6%AD%8C/</loc>
+    <loc>https://hotuns.github.io/categories/%E8%AF%97%E6%AD%8C/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hotuns.me/posts/cn/</loc>
+    <loc>https://hotuns.github.io/posts/cn/</loc>
     <lastmod>2018-03-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hotuns.me/tags/</loc>
+    <loc>https://hotuns.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hotuns.me/en/tags/"
+                href="https://hotuns.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hotuns.me/tags/"
+                href="https://hotuns.github.io/tags/"
                 />
   </url>
 </urlset>
