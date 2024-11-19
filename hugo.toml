@@ -1,0 +1,38 @@
+baseURL = "https://hotuns.me"
+languageCode = "zh-CN"
+title = "Hotuns Blog"
+theme = "yinyang"
+DefaultContentLanguage = "cn"
+
+[author]
+  name = "Hotuns"
+  homepage = "https://hotuns.me/"
+
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+  [languages.cn]
+    contentDir = "content/cn"
+    languageName = "Chinese"
+    weight = 1
+
+[params]
+# disqus = "joway" # disqus account name
+extraHead = ''
+mainSections = ["posts"]
+
+[[params.socials]]
+name = "About"
+link = "https://hotuns.me/"
+
+[[params.socials]]
+name = "Github"
+link = "https://github.com/hotuns"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+
